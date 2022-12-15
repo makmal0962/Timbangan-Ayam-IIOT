@@ -1,3 +1,3 @@
 # Timbangan-Ayam-IIOT
 
-Program ini menggunakan SPIFFS. Pastikan ESP32 telah diformat SPIFFS sebelum digunakan
+Program ini menggunakan SPIFFS. Pastikan SPIFFS telah diformat di ESP32 sebelum digunakan
