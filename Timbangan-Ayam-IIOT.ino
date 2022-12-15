@@ -38,7 +38,7 @@ int disp = 1;   //step layar kalibrasi
 int maindisp = 1; //step layar menimbang
 
 bool spiffsSetCorrectly;
-float callibration_factor = 14610.73;
+float callibration_factor = 1.0;
 boolean autoHold = false;
 int kecerahan = 3;
 
